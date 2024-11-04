@@ -11,10 +11,14 @@ Knowledge Sharing (KS) - Building real-time data pipelines
 ## Delta-Lake
 * [Delta.io blog - Delta Lake - State of the Project, Part 2](https://delta.io/blog/state-of-the-project-pt2/), April 2024
   * [Delta.io blog - Delta Lake - State of the Project, Part 1](https://delta.io/blog/state-of-the-project-pt1/), March 2024
+* [Delta.io docs - Quick start - Python](https://docs.delta.io/latest/quick-start.html#language-python)
+
+### Delta-RS and Delta Kernel
 * [Delta.io blog - Delta Kernel, Building Delta Lake connectors, made simple](https://delta.io/blog/delta-kernel/), June 2024
   * [Docs.RS - Delta Kernel](https://docs.rs/delta_kernel/latest/delta_kernel/)
 * [GitHub - Delta-Kernel-RS](https://github.com/delta-incubator/delta-kernel-rs)
 * [GitHub - Delta-RS](https://github.com/delta-io/delta-rs)
+
+### Connectors for DuckDB and Polars
 * [DuckDB docs - Native Delta Lake Support in DuckDB](https://duckdb.org/2024/06/10/delta.html), June 2024
 * [Delta.io blog - Reading Delta Lake Tables into Polars DataFrames](https://delta.io/blog/2022-12-22-reading-delta-lake-tables-polars-dataframe/), December 2022
-
